@@ -168,6 +168,7 @@
         /*在 小於 1366px 時變更樣式*/
         @media(max-width:1366px){
           width:100%;
+            height: auto;
             img{ 
                 width:100%;
             }
