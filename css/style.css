@@ -193,6 +193,7 @@
 
 .banner .swiper-container {
   max-width: 100%;
+  height: auto;
   /*在 小於 1366px 時變更樣式*/
 }
 @media (max-width: 1366px) {
